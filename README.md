@@ -19,6 +19,28 @@ The following tools were used to do the analysis and the REST API
 - Jupyter Notebook
 
 
+## Data
+
+The information used is from the years 2016, 2017 and 2018 and is in a SQLite database and in .json format files, these can be found in the "Resources" folder, this was provided by Tecnológico de Monterrey.
+With this the analysis was performed as well as the REST API
+SQLite Database
+
+#### Mouse_metadata Table
+
+|     Column    | Data Type |
+| ------------- | ----------|
+|    Mouseid    |   `str`   |
+|  Drug_Regimen |   `str`   |
+|      Sex      |   `str`   |
+|   Age_Months  |   `int`   |
+|    Weight(g)  |   `int`   |
+
+
+- Mouseid      -> Mouse unique id code
+- Drug_Regimen -> Drug Name
+- Sex          -> Gender of Mouse
+- Age_Months   -> Age of Mouse
+- Weight(g)    -> Weight of the mouse in grams
 
 
 
