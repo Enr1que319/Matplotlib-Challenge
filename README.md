@@ -7,6 +7,18 @@
 In this study, 250 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. A technical report of the study was generated with all the tables and figures needed.
 
 
+### Tools
+
+The following tools were used to do the analysis and the REST API
+
++ Python
+    + Pandas
+    + Matplotlib
+    + Scipy
+    + Random
+- Jupyter Notebook
+
+
 
 
 
