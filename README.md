@@ -63,3 +63,6 @@ SQLite Database
 
 When the information was analyzed with the help of the generated graphs, the conclusion of 3 important findings was reached, which are the following:
 
+1. Capomulin is one of the best drugs to treat the Tumor Volume (mm3) because the tumors decrease significantly 
+2. We can said that there is a direct relationship between weight and the volume of the tumor, with this we can said that  the heavier the mouse the bigger the tumor
+3. The gender of the mices do not affect the decrease or increase of tumors in the treatments
