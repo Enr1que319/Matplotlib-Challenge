@@ -1,6 +1,6 @@
 # Pymaceuticals Analysis
 
-[![](img/Laboratory.jpg)]()
+[![](Img/Laboratory.jpg)]()
 
 
 
