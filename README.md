@@ -43,6 +43,19 @@ SQLite Database
 - Weight(g)    -> Weight of the mouse in grams
 
 
+#### Study_results Table
+
+|     Column        | Data Type |
+| ----------------- | ----------|
+|     Mouseid       |   `str`   |
+|    Timepoint      |   `int`   |
+| Tumor_Volume(mm3) |  `float`  |
+| Metastatic_Sites  |   `int`   |
+
+
+
+
+
 
 <!-- Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
 1.- Capomulin is one of the best drugs to treat the Tumor Volume (mm3) because the tumors decrease significantly 
