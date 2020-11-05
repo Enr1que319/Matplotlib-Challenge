@@ -61,6 +61,8 @@ SQLite Database
 
 ## Analysis
 
+[![](Img/1.png)]()
+
 When the information was analyzed with the help of the generated graphs, the conclusion of 3 important findings was reached, which are the following:
 
 1. Capomulin is one of the best drugs to treat the Tumor Volume (mm3) because the tumors decrease significantly 
