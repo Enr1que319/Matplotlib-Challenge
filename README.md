@@ -53,7 +53,10 @@ SQLite Database
 | Metastatic_Sites  |   `int`   |
 
 
-
+- Mouseid            -> Mouse unique id code
+- Timepoint          -> Timepoint of mouse checks
+- Tumor_Volume(mm3)  -> Volumen of the tumor
+- Metastatic_Sites   -> Matastatic number
 
 
 
